@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>CoffeSound</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>CoffeSound</h1>
+    <nav>
+      <a href="#home">首页</a>
+      <a href="#test">취향 테스트</a>
+      <a href="#result">추천 결과</a>
+      <a href="#coffee">커피 도감</a>
+      <a href="#essay">에세이</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>오늘의 추천</h2>
+    <!-- 今日推荐内容 -->
+  </section>
+
+  <section id="test">
+    <h2>취향 테스트</h2>
+    <!-- 这里放简易问卷或Mood选择 -->
+  </section>
+
+  <section id="result">
+    <h2>추천 결과</h2>
+    <!-- 展示匹配结果 -->
+  </section>
+
+  <section id="coffee">
+    <h2>커피 도감</h2>
+    <!-- 咖啡百科内容 -->
+  </section>
+
+  <section id="essay">
+    <h2>에세이/감성 콘텐츠</h2>
+    <!-- 感性内容 -->
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
